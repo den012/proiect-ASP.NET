@@ -1,0 +1,19 @@
+# Build
+/bin
+/obj
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+*.sln.iml
+
+# OS
+.DS_Store
+
+# User secrets
+secrets.json
+secrets.*
